@@ -1,0 +1,14 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Orbitron", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(110, 32, 173);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(87, 223, 34);
+}
